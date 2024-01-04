@@ -5,6 +5,25 @@ https://ieeexplore.ieee.org/abstract/document/9338282/
 ##### Better Late than Never. Sorry all for uploading all the codes late. 
 ##### Thanks other author(s) that have utilized and contacted for feedbacks on the codes.
 
+* Many of the codes were adopted from TextGAN-William
+```
+# -*- coding: utf-8 -*-
+# @Author       : William
+# @Project      : TextGAN-william
+# @FileName     : 
+# @Time         : Created at 2019-03-18
+# @Blog         : http://zhiweil.ml/
+# @Description  :
+# Copyrights (C) 2018. All Rights Reserved.
+```
+# Included Models and Baselines
+Please see the paper for more details  
+
+### Fake news
+TextCNN, RNN, CIS and their variations
+### Baseline
+Random Coherence, HotFlip, UniTrigger, TextBugger
+
 # Instruction
 
 #### A few important notes on prerequisite
